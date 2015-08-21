@@ -1,6 +1,6 @@
 {
   "name": "tagged-template-escape",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Customizable escaping for es6 tagged template strings",
   "main": "index.js",
   "repository": {
@@ -22,5 +22,10 @@
   "semistandard": {
     "parser": "babel-eslint"
   },
-  "license": "MIT"
+  "author": "Tristan Davies <github@tristan.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devTristan/tagged-template-escape/issues"
+  },
+  "homepage": "https://github.com/devTristan/tagged-template-escape"
 }
